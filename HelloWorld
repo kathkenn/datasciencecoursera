@@ -1,2 +1,2 @@
-git add . HelloWorld.md
-git push HelloWorld.md
+$git add . HelloWorld.md
+$git push HelloWorld.md
